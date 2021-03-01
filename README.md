@@ -4,7 +4,7 @@ This project contains simple implementation of FastAPI. A python framework that 
 ## Intallation
 1. Clone this repo in your python environment using the code below:
 '''
-git clone https://github.com/nka-coder/fastapi-simple-implementation.github
+git clone https://github.com/nka-coder/fastapi-simple-implementation.git
 '''
 2. Install **fastapi** library
 '''
