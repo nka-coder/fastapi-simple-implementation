@@ -24,3 +24,7 @@ pip install fastapi
 pip install hypercorn
 ```
 4. Open your navigator and launch hypercorn server with the url: http://127.0.0.1:8000/docs
+
+## Example
+You can try this code using the following *timezone* to avoid error due to wrong *timezone*: America/Los_Angeles, America/New_York, Africa/Algiers or Africa/Lagos.
+Another option is to pick a timezone from this page: http://worldtimeapi.org/api/timezone
